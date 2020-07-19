@@ -1,0 +1,77 @@
+*
+**           a
+—keu rop qss curriculum vitae
+personal information muhammad hamza
+
+9  karachi, pakistan, karachi (pakistan)
+ (+92) 302 9199786
+4 ~muhammadhamza703@gmail.com
+@ inkedin.com/in/muhammadhamzah7b4a5610b/
+
+personal statement a young self-motivated it professional with knowledge and proficiency in
+object oriented programming, and strong skills and ability in writing clean and
+efficient code, seeks the position of software developer/ software engineer to
+make a direct impact on the company’s business.
+
+education and training                                                                                                                                                         n
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+sindh muslim government college, karachi (pakistan)
+2011-2013 matriculation
+gallant foundation school, karachi (pakistan)
+personal skills eee dg
+organisational / managerial skills © final year project
+region based sentiment polarity identification from online
+news
+a research based project based on identification of
+sentiments on a news published, in different regions based
+on particular event, with different opinion of news writer. the
+regions include china, india, pakistan, united kingdom, and
+united states of america.
+e-commerce website
+developed using php, html and css.
+cricket score (espncricinfo)
+online cricket score system consisting of web application
+and desktop application developed in c# using .net
+framework. the data is scrapped from different live sports
+website. the database integration is done by using microsoft
+sql server.
+ethereum wallet
+an android application which allow the ethereum coins to
+exchange between the users of the wallet.
+internet topology dataset
+a research paper reproduction published in ieee
+conference. new insights of the router, ip addresses, and
+hops was discovered in reproducing the research results.
+kubernetes (e-commerce website)
+an e-commerce application deployed on google cloud
+platform using kubernetes as an orchestration tool.
+ca authentication mechanism
+a public key encryption simulation in which different modes
+6/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                        page 1/2
+ke
+
+“ikeuropass                   curriculum vitae                                                                    muhammad hamza
+of encryption were used and described the pros and cons
+of each mode. ca authentication and simulation of root
+ca was also a part of this project.
+twitter sentiment analysis
+a data science course project build in order to analyze the
+sentiments on a particular event by using the twitter api. the
+comparison of basic ml algorithms like naive bayes, and
+svm
+
+job-related skills skills
+
+c#, css, html, java, latex,
+php, python, sql
+tools
+anaconda
+atom
+netbeans
+pycharm
+visual studio
+
+6/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                         page 2/2

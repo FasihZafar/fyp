@@ -1,0 +1,87 @@
+*
+**           a
+—keu rop qss curriculum vitae
+personal information muhammad ahmad khan
+9  house no. a-1, al-falah housing society, shah faisal colony, karachi, pakistan, karachi
+(pakistan)
+f@ (+92) 306 0030630
+4 mylink.me@gmail.com
+ff). www.linkedin.com/in/muhammad-ahmad-khan
+personal statement _ to pursue a challenging position that enables to foresee career advancement potential at a
+renowned and progressive organization and to offer my knowledge, skills and experience
+as to prove myself an asset for the organization.
+education and training                                                                                                                                                         hl
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 higher secondary certificate (hsc) pre-
+engineering
+govt. college for men nazimabad, karachi (pakistan)
+2011-2013 secondary school certificate (ssc)
+pia model secondary school, karachi (pakistan)
+personal skills                                                                                                                                                                bh
+organisational / managerial skills © final year project
+region based sentimental polarity identification from online news:
+asentimental analysis project that was divided into three modules.
+ii the first module consist of data mining in which more than 20000 news were scrapped from 25
+different news sites of five different countries.
+ii the second module consist of different machine learning models that were used to enhance the
+overall relationship among data and also for predictions of sentiments.
+ii the third module consist of a web app that takes the query of relevant news topic and shows the
+sentimental visualization of same news on a map across different regions.
+course projects
+e-commerce website:
+ecommerce website developed using (functional/procedural) php, mysql and bootstrap.
+ecommerce android app:
+ecommerce android app developed using kotlin with json based restful web service in
+php.
+ethereum wallet:
+anon-deterministic ethereum wallet android application developed using web3j library and
+connected to the ethereum testnet using infura api that allow the ethereum coins to exchange
+between the users of the wallet. security parameters were also defined by implementing a
+mechanism for storing (public and private) keys securely in encrypted manner in android storage.
+internet topology dataset:
+a research paper results reproduced (that was published in ieee conference). new insights of the
+router, ip addresses, and hops were discovered by inferring the visualization generated through data
+in reproducing the research results.
+deployment of containerized e-commerce website:
+acontainerized e-commerce application deployed on google cloud platform using its kubernetes
+service as a container orchestration tool.
+recommendation system:
+6/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/2
+ews
+“ikeuropass                    curriculum vitae                                                              muhammad ahmad khan
+recommendation system (collaborative filtering (user based)) developed in python.
+unity 2d game:
+2d space invader game developed on unity game engine using c#.
+super market application:
+super market application developed in c++ (console based with filing).
+job-related skills © programming languages
+java:
+core java, java for android.
+python:
+core python, pandas, sklearn, keras, flask.
+php:
+laravel, custom mvc framework, web service (mobile back-end).
+html & css:
+bootstrap.
+javascript:
+core javascript, jquery, angular 7.
+sql:
+oracle database 11g release 2, mysql.
+c#:
+core c# (.net framework), c# for unity.
+tools
+net bean 8.2
+eclipse oxygen
+android studio
+spyder ide
+pycharm (anaconda environment)
+jupyter notebook
+visual studio code
+phpstorm
+mysql workbench
+phpmyadmin
+visual studio 2015
+unity
+6/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                         page 2/2

@@ -1,0 +1,44 @@
+*
+**           a
+—keu rop qss curriculum vitae
+personal information hassan ali
+9  karachi, pakistan, karachi (pakistan)
+b (+92) 333 3760528
+§%4_ussnaali@gmail.com
+ff httos://www.linkedin.com/in/hassanali97
+personal statement seeking a challenging career in a progressive organisation that provides an opportunity to
+capitalise on my technical expertise and professional abilities in a conducive environment
+education and training                                                                                                                                                         n
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 hssc (pre-engineering)
+aga khan higher secondary school, karachi (pakistan)
+2011-2013 ssc (science)
+aga khan school garden, karachi (pakistan)
+personal skills                                                                                                                                                                bn
+organisational / managerial skills | academic projects
+== automobile driver learning application
+designed a cross platform application with extensive implementation of react native, the application
+allows automobile driving skills learner to search for a driving institute in surrounding area in a hassle
+free manner. the application also allows customization of the instructor based on performance.
+<= web based sports roster management application
+designed a web based application using native scripting languages like php and html and css
+with xampp and mysql to automate the sponsor selection for teams and sponsor’s roster bidding
+for squad for football premier leagues.
+== college management system
+designed and developed a college administration system using dot net framework for windows
+servicing and leveraged angular js for front-end web application.
+== randomized binary search tree algorithm
+developed an algorithm using java to balance a random binary tree.
+<= other projects
+<= library management system
+<= sound cloud website
+<= solvable rubik’s cube
+job-related skills | core technology skills and acknowledgments
+== programming languages- java, c++, c# , php and python
+= development tools- react native, dot net framework , android studio, visual studio, dev cpp,
+eclipse, net beans, xampp, unity, xcode and angular js
+= databases- sql, mongodb, mysql
+<= accreditations- star performer procom (2018) and winner of coder’s cup (2016)
+4/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/1

@@ -1,0 +1,46 @@
+x
+“”           a
+—keu rop qss curriculum vitae
+personal information maaz bin amir
+9  karachi, pakistan, karachi (pakistan)
+& (+92) 336 2116314
+bm k153641@nu.edu.pk
+personal statement _ to perceive a career in a renowned firm with dedicated efforts and to associate my self with
+an organization that gives me a chance to
+enhance my knowledge.
+education and training                                                                                                                                                         nh
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+pechs education foundation government, karachi (pakistan)
+2011-2013 matriculation
+guards public school, karachi (pakistan)
+personal skills                                                                                                                                                                |
+organisational / managerial skills © personal projects
+fyp - pakistan sign language (psl) chat project
+(08/2018 — 06/2019)
+our proposed chatting system is focused on developing a
+communication for the conversion of text and signs as visual
+representation by using leap motion device. the design is focused
+with the objective of reducing the communication gap between
+normal people and deaf and dumb people.
+hospital management system web-based application
+(01/2018 — 06/2018)
+an application which can replace manual hospital system. the
+hospital management system will manage a waiting list of patients
+requiring different treatment. the availability of beds will be
+determined and if beds are available the next appropriate patient
+on the list will be notified and much more.
+build al to play breakout game (01/2018 — 06/2018)
+trained al to first learn the environment and rules of the game
+,then after learning the rule and beating high scores after that.
+digital temperature sensor with arduino
+(08/2017 — 12/2017)
+by using chip ds18b20 digital temperature sensor with arduino, so
+you can measure the temperature of the air, liquids like water and
+the temperature of the ground.
+job-related skills § skills
+php python html css javascript
+laravel framework sql .net framework c,c++
+6/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/1

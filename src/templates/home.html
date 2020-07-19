@@ -1,0 +1,88 @@
+{% extends 'base.html' %}
+
+{% block title %} Home {% endblock %}
+
+{% block main %}
+<div class="container">
+
+	<!-- search bar -->
+	<div id="searchBar" class="row align-items-end" style="padding-top: 20px;">
+	    <div class="col align-self-center">
+	    	<form action="{% url 'search' %}" method="post">
+				{% csrf_token %}
+				<div class="form-row">
+					<h6 id="searchHelp" class="form-text text-muted"> Enter search query to retrieve relevant documents</h6>
+					<div class="col-11">
+				    	<input type="text" class="form-control" placeholder="Enter Query Here" aria-describedby="searchHelp" name="q" style="height: 50px;" required>
+				    </div>
+				    <div class="col">
+				      <button type="submit" class="btn btn-primary">Submit</button>
+				    </div>
+				</div>
+			</form>
+	    </div>
+  	</div>
+
+  <hr>
+
+  <!-- file selector & summary -->
+  	<div  class="row align-items-centre">
+	  <!--file selector  -->
+		<div id="files" class="col-4">
+			<div class="card-header">Your CV's</div>
+			<div class="card-body">
+				<p class="card-title">Parsed {{count}} </p>
+				<form action="{% url 'upload' %}" method="post" enctype="multipart/form-data">
+					{% csrf_token %}
+					<div class="custom-file">
+					<input type="file" name="document"  multiple>
+					<br><br>  
+					<button type="submit" class="btn btn-primary" >Upload</button>	  
+					{% if error %}
+						<br>
+						<br>
+						<div class="alert alert-danger" role="alert">
+						{{error}}
+						</div>
+					{% endif %} 
+					</div>
+				</form>
+			</div>
+		</div>
+
+	<!--searc result -->
+		<div id="results" class="col-8">
+		{% if files %}
+			
+			<table class="table table-striped">
+				<thead>
+					<tr>
+						<th scope="col">#</th>
+						<th scope="col">Name</th>
+						<th scope="col">Position</th>
+						<th scope="col">PDF</th>
+						<th scope="col"></th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for file in files %}
+					<tr>
+						<th scope="row">{{forloop.counter}}</th>
+						<td>{{file.person|title}}</td>
+						<td>{{file.job|title}}</td>
+						<td><a href="{{file.url}}">{{file.name|lower}}</a></td>
+						<td>{{file.rank|floatformat:5}}</td>
+					</tr>
+					{% endfor %}
+
+				</tbody>
+			</table> 
+		{% endif %}
+	 	</div>
+	</div>
+
+
+
+</div>
+{% endblock %}
+

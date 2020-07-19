@@ -1,0 +1,65 @@
+x
+*”           a
+—keu rop qss curriculum vitae
+personal information anas abid akhtar
+9  karachi, pakistan, karachi (pakistan)
+@ (+92) 341 2528779
+i anasabid1998@hotmail.com
+personal statement — seeking an opportunity to showcase
+my skills and implement my learning
+to contribute with determination in
+reaching the objectives of an
+organization
+education and training                                                                                                                                                         n
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+govt. college for men, karachi (pakistan)
+2011-2013 o-levels
+the froebel's school, karachi (pakistan)
+personal skills                                                                                                                                                                |
+organisational / managerial skills © final year project
+deep information retrieval system using
+context aware vector representation [django,
+pytorch, faiss and elastic search]: a retrieval
+system with specialized vector representation of
+documents and query using deep learning model.
+prolution (programming solution)
+[django, mongodb and angular 5j|a web search
+engine which crawls, different resource verified
+sites and fills the database and then using elastic
+search fetches the user queries. mongodb,
+django framework and angular 5 were used for
+this project
+personality prediction through
+cv analysis
+artificial intelligence based system using
+extensive knowledge of data science for
+analyzing and predicting personality using
+machine learning.
+league of glory management
+system
+ac++ application which manages the sport
+league of the university. the fixtures, score,
+leader boards, points, player registration.
+n-queen problem
+a java ide project which solve the n queen
+problem. using data structure.
+4/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                        page 1/2
+ke
+“ikeuropass                     curriculum vitae                                                                               anas abid akhtar
+job-related skills © technical skills
+- programming languages:
+python(application programming and
+machine learning), java (desktop
+applications), c++( desktop application
+programming) , html, css , bootstrap and
+javascript (web applications)
+technologies
+- django (python developer)
+-qt
+- unity 3d
+- pandas
+- tensor flow, spacy and nlp
+4/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                         page 2/2

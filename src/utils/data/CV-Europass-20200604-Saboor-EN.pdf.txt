@@ -1,0 +1,37 @@
+oe
+—keu rop qss curriculum vitae
+personal information abdul saboor
+9   2/15 firdous colony nazimabad ,karachi, karachi (pakistan)
+b (+92) 333 2288535
+wm k152267@nu.edu.pk
+@ _ https://www.linkedin.com/in/ abdul saboor 30a0a711a/
+personal statement _ an avid learner and a highly motivate d future computer science
+graduate is seeking for a job opportunity that will allow me to utilize my
+problem solving skills and meticulo usness in detail to further develop
+my abilities in the field of computer science.
+education and training                                                                                                                                                         n
+01/06/2015-01/06/2019 + bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+forman christian college, karachi (pakistan)
+2010-2013 olevels
+beaconhouse school system, karachi (pakistan)
+personal skills                                                                                                                                                                |
+organisational / managerial skills | draught game
+created a highly interesting and mind challenging game of draughts on c
+ship management system
+amanagement system which is going to manage activities on ship port. implemented on c++
+minesweeper
+developed 9x9 puzzle board game of minesweeper in assembly language
+x86 data compression algorithm
+created a data compression software using huffman coding a data compression algorithm on java in
+data structure course
+evolu tion of bazaar
+a product based system in which user don’t have to carry their carts inside the mart to carry their
+goods with them. they can just add their products to their virtual cards using their mobile phones.
+tools used were android , c#, sql server
+ecommerce website
+aonline shopping website using php and mysql
+job-related skills = c/c++, c#/.net, html/css/javascript, php/sql /plsql, java, linux, android
+4/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                        page 1/1

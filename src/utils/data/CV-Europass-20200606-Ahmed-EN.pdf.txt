@@ -1,0 +1,76 @@
+*
+**           a
+—keu rop qss curriculum vitae
+personal information muhammad ahmed
+
+9  karachi, pakistan, karachi (pakistan)
+b (+92) 345 4058863
+ya ahmed97muhammad@gmail.com
+ff linkedin.com/in/muhammad-a-015298114/ © github.com/ahmed97muhammad/
+
+personal statement _ to pursue a challenging position that enables to foresee career advancement potential at a
+renowned and progressive organization and to offer my knowledge, skills and experience
+as to prove myself an asset for the organization.
+
+work experience                                                                                                                                     nh
+06/2019-present software engineer
+telenor microfinance bank, karachi (pakistan)
+in telenor | worked on two projects one was cba (core banking application) and cms(colleteral
+management system)
+education and training                                                                                                                                                         nh
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+sir adamjee institute, karachi (pakistan)
+2011-2013 matriculation
+charterhouse public school, karachi (pakistan)
+personal skills                                                                                                                                                                |
+organisational / managerial skills | cms (colleteral management system)
+in cms the whole project was created by our team the technology stack was spring boot with
+javascript ,
+thymeleaf, bootstrap and jwt.
+cba (core banking application)
+in cbai along with my team members created kissan loan module and bvs verification in which java
+serviet's
+and jsp was used.
+digital tajir (final year project)
+an ecommerce platform providing recommendations on the basis of human personality that is
+predicted
+using swipes and gestures of a person. swipes and gestures are recorded via an android application
+(emonx)
+which has google analytics and custom analytics integrated in to it.
+via analytics we also provide add campaign (campaign manager). it helps the seller to predict
+the future
+sales for a product via describing the amount of cost to be placed on google and facebook adds and
+the
+conversion rate which will be obtained by the campaign.
+feature selection using linear classifier weights(data science)
+6/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/2
+oe
+
+“ikeuropass                     curriculum vitae                                                                            muhammad ahmed
+python script for selecting features (variables used for prediction) on the basis of odds ration ,
+information
+gain , recursive feature elimination and linear classifier.
+david store (freelance)
+a django based website which grabs cd's , dvd's , book's , and games from amazon , ebay , buypack ,
+secondspin and declutter on the basis of upc's provided and shows that comparison of prices for a
+particular
+product.
+
+job-related skills | programming languages: java(spring boot
+
+, serviet's , jsp , hibernate) , python (django ,
+flask , resful apis), , c++ , html5 /css3,
+javascript
+databases: sql , plsql , mysql
+concepts:: oop, ooad, datastructures.
+softwareengineering, restful api's , web
+services , windows services
+tools: netbeans, eclipse, pl/sql developer
+,visualstudio(2017), pycharm,
+spyder, , microsoft sql server, selenium ,
+firebase , intell
+
+6/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                         page 2/2

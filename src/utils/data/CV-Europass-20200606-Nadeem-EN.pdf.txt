@@ -1,0 +1,60 @@
+*
+**           a
+—keu rop qss curriculum vitae
+personal information muhammad hasan nadeem
+9  karachi, pakistan, karachi (pakistan)
+& (+92) 313 2283107
+ym ~hasan.nadeem97@hotmail.com
+ff linkedin.com/in/mhasannadeem
+@ skype hasan.nadeem97@hotmail.com
+personal statement a-young self-motivated it professional with knowledge and proficiency in
+object oriented programming, and strong skills and ability in writing clean and
+efficient code, seeks the position of software developer/ software engineer to
+make a direct impact on the company’s business.
+education and training                                                                                                                                                         hl
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+government degree college malir cantt., karachi (pakistan)
+2011-2013 matriculation
+primrose public school, karachi (pakistan)
+personal skills                                                                                                                                                                ||
+organisational / managerial skills _ projects
+e accuracy analyzation of different machine learning models like naive
+bayes, k-nearest neighbours, logistic regression, decision trees etc.
+e predicting credit card approvals using machine learning techniques.
+e using natural language processing (nlp) and clustering on movie plot
+summaries from imdb and wikipedia to quantify movie similarity.
+e abook recommendation system using natural language processing
+(nlp) which determines the similarity among books based on context.
+e aconvolution neural network (cnn) to classify images of letters from
+american sign language (asl) using tensorflow, keras, matplotlib etc.
+e working experience with google cloud platform (gcp) including
+managing clusters on cloud dataproc and dataflow, running
+spark/hive/pig jobs, managing large scale data with bigquery, bigtable
+and cloudsql and training machine learning models with automl and
+vision api.
+e smart property, a project that enables the users to trade tangible and
+intangible properties online over blockchain safely with anonymity.
+e ensuring the proof and authenticity of a document over blockchain by
+using blockchain's phenomena of secured timestamping
+e bank account management system developed with sql and python
+that allows the user to manage the bank account remotely.
+e areact.js app that allows the users to find the recipes, fetched by the
+real time api using javascript (es6), html and bootstrap 4.
+job-related skills © skills
+data science
+6/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                        page 1/2
+ota
+“ikeuropass                 curriculum vitae                                                   muhammad hasan nadeem
+probability / statistics
+big data / hadoop ecosystem
+python / c / c++
+blockchain
+algorithms
+data structures
+object oriented programming
+react.js / javascript
+sql
+6/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                         page 2/2

@@ -1,0 +1,58 @@
+oe
+—keu rop qss curriculum vitae
+personal information mawiz akrama
+9  karachi, pakistan, karachi (pakistan)
+@ (+92) 300 3367072
+4 ~mawizakrama@gmail.com
+ff linkedin.com/in/mawiz © github.com/mawizakrama
+personal statement currently a fresh graduate of bs (cs) from fast-nuces looking for an entry level position
+as software quality assurance engineer.
+work experience                                                                                                                                     nh
+06/2018-07/2018 intern software engineer
+paysys labs, karachi (pakistan)
+iti worked collaboratively on their crm software being developed at that time for national savings
+pakistan. my objectives comprised of mainly back end services on spring boot and automated and
+manual testing of the application. additional to that also worked on generating crystalline reports on
+ireport.
+education and training                                                                                                                                                         hl
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+dj sindh govt science college, karachi (pakistan)
+2011-2013 matriculation
+st.patrick’s high school, karachi (pakistan)
+personal skills                                                                                                                                                                bh
+organisational / managerial skills — projects
+driving learning application (fyp)
+cross platform application automating driving learning schools and freelance instructors to a platform
+where driving learners can get a lesson appointment, just like grabbing an uber. the application has
+three interfaces for learner, instructor and institute developed on react native and a web based
+admin panel on reacts.
+sports roster management
+the following web based application created using native scripting languages like html/css and
+php with xampp and mysql database automating the sponsor selection for teams and also roster
+bidding for squad in between sponsors, based around psl.
+job portal management system
+automating job posting and job searching on .net framework with front end web application on
+html/css and ms-sql database.
+job-related skills | core strengths
+ia java
+iia c++
+iia c,
+6/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/2
+ota
+“ikeuropass                        curriculum vitae                                                                                              mawiz akrama
+ii sql
+ii react native
+ii javascript
+ii angular (primitive)
+ii c#+-_ .net framework
+tools
+ii android studio
+ia visual studio
+ia gitbash
+imi neotest
+ii spring boot
+ii ireport
+6/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                         page 2/2

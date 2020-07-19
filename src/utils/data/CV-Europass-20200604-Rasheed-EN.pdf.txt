@@ -1,0 +1,37 @@
+x
+“”           a
+—keu rop qss curriculum vitae
+personal information fatima rasheed
+9  karachi, pakistan, karachi (pakistan)
+& (+92) 313 2768085
+i fatimarasheedkhan@gmail.com
+personal statement my objective is to develop my skills under a secure position and to enhance my abilities of
+communicating with different people as a developer. moreover, | want to experience
+practical life and work in relative field of my interest.
+education and training                                                                                                                                                         n
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate pre-engineering
+bamm pechs government college, karachi (pakistan)
+2011-2013 matriculation
+usman grammer school, karachi (pakistan)
+personal skills                                                                                                                                                                |
+organisational / managerial skills projects
+ii worked on c/c++ language for making basic game projects including logic game, tic tac toe etc.
+iti developed many management software including hospital management system, library
+management system and inventory system.
+ii worked on assembly with arduino to develop home security system, and robo car.
+ii worked on jframe for implementing trees, and chat application.
+ii worked on java and php using android studio to develop pharmaceutical app.
+final year project
+ii student health education : an android application through which women can talk about their health
+issues with doctors and get proper guidance free of cost.
+ii developed on android studio using rest api, java, php and mysql database.
+job-related skills | technical skills
+ia programming languages: c++, java, html, and css, javascript and php.
+ii database: mysql and oracle.
+ia tools: netbeans, visual studio, matlab, minitab, eclipse, android studio, slack, visual studio
+code, and sublime text.
+ii operating system: windows and linux.
+4/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/1

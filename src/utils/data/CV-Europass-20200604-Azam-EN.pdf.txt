@@ -1,0 +1,51 @@
+oe
+—keu rop qss curriculum vitae
+personal information areeq azam
+9   c -210, new ma jinnah rd, karim apt, karachi, karachi (pakistan)
+& (+92) 324 2655685
+§ areeqazam@gmail.com
+[fl linkedin.com/in/areegazam
+personal statement _ seeking for a visionary organization where | can achieve the opportunity to prove my
+talents, to think beyond the boundaries of trends, to learn and establish the most mature
+teamwork, up to the mark, to compete up with the international computer systems
+community.
+work experience                                                                                                                                     nh
+06/2019-present associate software quality assurance and automation engineer
+tps worldwide, karachi (pakistan)
+currently working in tps worldwide as an sqa automation resource where day to day
+responsibilities are to test and automate the ui screens, number of api’s and financial transaction
+simulators (desktop application).
+education and training                                                                                                                                                         bh
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+govt national college, karachi (pakistan)
+obtained a grade
+2011-2013 matriculation
+the educators, karachi (pakistan)
+obtained a grade
+personal skills                                                                                                                                                                |_|
+organisational / managerial skills | fyp: bilingual chatbot (we created the chatbot which removed the barrier of uni-linguality and
+allowed the user to converse in both english and urdu at the same time)
+tools: python, json, tensorflow, docker
+where is my point? (university transport tracking system)
+tools: react native, fire base, google maps
+frass (facial recognition attendance and security system) tools: python dlib, opencv, pyqts5,
+mysql, php, bootstrap,css android task manager
+tools: android studio
+job-related skills | languages
+(c, c++, java, c# .net)
+familiarity with technical tools like restsharp, selenium, appium, specflow, jmeter, coded ui test
+familiar with quality assurance and software testing concepts
+familiar with multiple development approaches like behavior driven, test driven, data driven
+4/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/2
+ota
+
+“ikeuropass                     curriculum vitae                                                                                      areeq azam
+development approaches
+familiar with agile methodology, scrum framework and devops
+familiar with big data frameworks and cloud computer concepts, such as hadoop, spark,
+containers
+
+4/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                         page 2/2

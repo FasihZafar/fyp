@@ -1,0 +1,48 @@
+*
+**           a
+—keu rop qss curriculum vitae
+personal information ali taher
+9  karachi, pakistan, karachi (pakistan)
+@ (+92) 315 2899989
+tm alitaher.cs@gmail.com
+ff) wwwlinkedin.com/in/alitahercs
+personal statement _ to obtain a responsible, challenging and awarding position in computer science field with
+special interests in business application programming, management systems, al and
+information processing.
+education and training                                                                                                                                                         n
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+pre-engineering group karachi board., karachi (pakistan)
+2011-2013 matriculation
+science group karachi board., karachi (pakistan)
+personal skills                                                                                                                                                                |
+organisational / managerial skills | « final year project: pandora
+* module # 1: scalable system for reporting problems by dragging a marker on map which is
+forwarded to concern uc for further actions. check what others have reported and socialize by
+commenting, liking and disliking their reports. designed and implemented using react-native, spring
+boot, jpa, hibernate, redux, mysql, aws services (elastic beanstalk, s3, rds, dynamo db,
+cognito, mobile hub) and realmdb.
+* module #2: user gets to call different handyman as per their demand. mainly focusing on backend
+using aws services, spring boot and jwttoken/oauth2 with spring security.
+«* one way car sharing system: user selects and pick a car from point a and drop at wherever he
+wants in operating area. using react native, react js and .net web-api’s.
+¢¢ examination hall problem reporting system: designed and implemented a complete android
+device-based system for teachers to report problems occurring during invigilation. using react-native,
+spring boot, redux, mysql, aws-cognito.
+«+ e-commerce medical store website: search and add medicines to cart. manipulate cart by
+increasing, decreasing quantity also remove unwanted items from cart. when done place your order
+and get printed receipt. implemented by using javascript, jquery, ajax, php, mysql, html,
+css and tcpdf.
+
+job-related skills | core languages: java, c#, javascript, react-native, sql, mysql, c++, php
+programming fundamentals: oop, algorithms, data structures, database, design patterns
+and knowledge and understanding of different software architectures.
+
+tools experience: spring boot, jpa, hibernate, spring security, jwt tokens, mysql
+workbench, postman, redux, realmdb, aws-services (elastic beanstalk, rds, dynamo db, $3,
+cognito, sns, mobile hub), firebase (authentication), github, apache tomcat, log4j 2, jenkins,
+docker.
+
+4/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/1

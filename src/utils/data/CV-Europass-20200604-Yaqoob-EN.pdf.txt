@@ -1,0 +1,52 @@
+x*       f
+—keu rop qss curriculum vitae
+personal information bilal yaqoob
+9  karachi, pakistan, karachi (pakistan)
+ (+92) 312 2956317
+i bilalyaqoob2207@gmail.com
+ff httos://www.linkedin.com/in/bilal-yaqoob/
+personal statement _ to secure a position where | can efficiently contribute my skills and abilities to the growth of
+the organization and build my professional career
+work experience                                                                                                                                     hi
+06/2019-present junior software developer (android | react-native)
+matz group, karachi (pakistan)
+education and training                                                                                                                                                         hl
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate (hssc)
+sir adamjee institute of management sciences, karachi (pakistan)
+2011-2013 agakhan board (akueb- ssc)
+shahwilayat public school, karachi (pakistan)
+personal skills                                                                                                                                                                bh
+organisational / managerial skills | fyp (final year project)
+* cricketer’s talent hunt — a smart recommendation system:
+an android application which provides opportunities to emerging players to present their talent.
+furthermore, it reduces the burden of trial system for the cricket representatives to select players. with
+the use of this system, the players will create his profile and will feed his statistics, which will be verified
+by social media module that includes reviews on his posts to verify player’s statistics. these
+recommended players will be promoted to upper levels.
+projects
+¢ super market management system: a system performing all the operations going on in
+super market in c++ on dev c++
+* online shopping system: automated the services of shopping by implementing this system
+on website through html/css/javascript
+* logistics and courier service system: an android application and website implementing
+delivery system for any product user want to deliver.
+* laundary finder: an android application, which finds nearby laundries for user and let him order
+the quantity and type of clothes he want to dry clean.
+* evaluating and examination system: a web application through which students can
+attempt online exam and teachers can manage the exam content (time and questions) in
+html/css/javascript.
+job-related skills  * java
+* mysql
+¢ php -mysql
+4/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/2
+ews
+
+“wkeuropass                     curriculum vitae                                                                                   bilal yaqoob
+¢e android studio
+¢ staruml
+¢ eclipse
+
+4/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                         page 2/2

@@ -1,0 +1,45 @@
+oe
+—keu rop qss curriculum vitae
+personal information adeel shah
+9  karachi, pakistan, karachi (pakistan)
+& (+92) 342 2978006
+§%@ shahadeel5@gmail.com
+@) www.linkedin.com/in/adeel-shah-15k2174/
+
+personal statement = ambitious professional with a strong foundation in programming,
+time management and problem solving skills. organize all the
+tasks given and work hard to complete them. looking forward to
+leverage solid development skills as a developer at your
+organization.
+
+education and training                                                                                                                                                         n
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+personal skills                                                                                                                                                                |
+organisational / managerial skills | we developed amodel usingpythonopencv and provided it asa
+service to detect license platesof vehicles. an application wasalso
+developed to demonstrate and use the servicesprovided by model.
+developed 3 interfaceswhich includesweb (c# .net),android
+and desktop (c# .net) that callsrest api for all the
+functionalitiesand business logic.
+developed a search engine similar togoogle usinghtml/css
+javascript, php, jquery ,ajax andmysql
+desktop application to keep the record of studentsand books
+with the application of oop
+desktop application tomanage players,teams,matchesand
+leagueswith add new matches,new playersand set leaguesusing
+jframe,javaand sql.
+job-related skills} - android(java) (7.0)
+- php(7.0)
+- javascript (7.0)
+- .html/css/bootstrap (6.5)
+- firebasewithweb
+and app (6.5)
+- sql/mysql (7.0)
+- java/c# (7.0)
+- webapi (7.5)
+- c/c++ (6.5)
+- git/github/ tfs(6.0)
+- python withopencvv(6.0)
+4/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/1

@@ -1,0 +1,59 @@
+*
+**           a
+—keu rop qss curriculum vitae
+personal information ammar muhammad ghazali
+9  karachi, pakistan, karachi (pakistan)
+@ (+92) 303 2143676
+4 ammarmghazali@gmail.com
+@) inkedin.com/in/ammar-muhammad-ghazali-505795182/
+education and training                                                                                                                                                         n
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+dj sindh government science college, karachi (pakistan)
+2011-2013 matriculation
+beaconhouse school system, karachi (pakistan)
+personal skills dg
+organisational / managerial skills © final year project:
+smart property: trusted trading of property
+using blockchain
+asmart property app that is built on top of
+blockchain technology using smart contracts.
+the motive is to digitize the dealing of properties
+(car, homes, etc) for the better and secure
+transactions.
+face recognition
+implementation of face recognition using
+eigenface approach
+speech recognition
+creates the email sender application through
+speech recognition
+anomaly detection
+applied ensemble learning to mawi dataset for
+malware detection.
+securing lot microservices
+implementation of paper “securing lot microservices
+with certificates
+proxy server
+proxy server supporting caching and filtering
+in python.
+completely fair scheduling
+applied the algorithms of red black tree in
+order to schedule task
+tourists management system
+desktop based application using python and
+mysql
+password manager
+developed a password manager in python using
+cryptographic primitives.
+4/6/20                                       © european union, 2002-2020 | http://europass.cedefop.europa.eu                                       page 1/2
+ota
+“ikeuropass                    curriculum vitae                                                           ammar muhammad ghazali
+job-related skills | python, .net , c#
+c/c++ , java, xml
+scikit learn , tensorflow , keras, r
+mysql , sql , oracle
+cisco packet tracer , wireshark
+html , css , javascript
+4/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                         page 2/2

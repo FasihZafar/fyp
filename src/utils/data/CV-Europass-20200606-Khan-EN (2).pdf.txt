@@ -1,0 +1,58 @@
+*
+**           a
+—keu rop qss curriculum vitae
+personal information muhammad moin raza khan
+
+9  karachi, pakistan, karachi (pakistan)
+& (+92) 342 3442623
+s$ ~muhammadmoin74@gmail.com
+[fi linkedin.com/in/muhammad-moin-raza-khan-62556517b/
+
+personal statement _ to secure a position of software developer in your company where | can efficiently
+contribute and enhance my skills and abilities to the growth of the organization and build
+my professional career.
+
+education and training                                                                                                                                                         n
+2015-2019 bachelor's degree in computer science
+fast - national university of computer and emerging sciences (nuces), karachi
+(pakistan)
+2013-2015 intermediate
+government sindh college of commerce, hyderabad (pakistan)
+2011-2013 matriculation
+falconhouse grammar school, hyderabad campus, hyderabad (pakistan)
+personal skills eee dg
+organisational / managerial skills — final year project : smart bidding application using machine learning and flask api.
+-bidding on products
+-predicting suggestion price for e.g of phones,television and other appliances using regression
+algorithm,decision trees
+and knn.
+roll a ball game (3d) (platform : unity )
+a ball rolling game where the player has to dodge the obstacles (walls and bombs) and collect
+certain amount of coins in limited time to win the game.
+school management system ( platform : android)
+asimple android application having features such as teacher's login, student's login and
+management features such as attendance and grades of students.
+cab management system (like careem & uber )(platform : android)
+android application using firebase database and google maps.
+chatroom (language: c#)
+a c# gui application where multiple users can communicate online.
+ping pong game using arduino microcontroller and accelerometer sensor. (language
+:java and processing language)
+a simple game of collecting falling objects by moving accelerometer sensor in horizontal
+direction.
+education
+projects
+https:/www.visualcv.com/tit1 arr8uto/
+arduino microcontroller based project to display the name and patterns on the
+connected display.(language: c)
+job-related skills | languages: python (with flask api), java(android), java, c++, c, c#, html5, css, javascript,
+php
+databases: mysql ,firebase
+6/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                        page 1/2
+ews
+
+“ikeuropass                  curriculum vitae                                                    muhammad moin raza khan
+development environments: spyder (python 2.0 (v2.7) and 3.0(v3.6)), android studio,
+netbeans, dev-c++, visual studio, unity, eclipse
+
+6/6/20                                        © european union, 2002-2020 | http://europass.cedefop.europa.eu                                         page 2/2
