@@ -7,7 +7,7 @@ chardet==3.0.4
 colorama==0.4.3
 cymem==2.0.3
 decorator==4.4.2
-Django==3.0.6
+Django==3.0.14
 django-extensions==2.2.9
 idna==2.9
 ipython==7.15.0
