@@ -14,7 +14,7 @@ ipython==7.15.0
 ipython-genutils==0.2.0
 jedi==0.17.0
 murmurhash==1.0.2
-numpy==1.18.4
+numpy==1.22.0
 parso==0.7.0
 pdf2image==1.13.1
 pickleshare==0.7.5
